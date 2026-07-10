@@ -1,0 +1,16 @@
+# Eclipse
+bin/
+.settings/
+.classpath
+.project
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
